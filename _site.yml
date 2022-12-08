@@ -14,7 +14,7 @@ navbar:
     href: https://github.com/tcp1997
 output:
   html_document:
-    theme: simplex
+    theme: darkly
 
 
 
