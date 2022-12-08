@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+
+As a Geographic Information Systems major, I had to learn how to use a variety of programs which includes Python, ArcGIS, and RStudio. I am using RStudio to develop this website. I am working on this website as a side project completely on my own! While doing research on the GIS classes that I'm taking this quarter, I stumbled upon a UCSB Geography 13 website made by Mike Johnson. Thanks to him, I am able to self study and follow along the labs that he posted so that I can make this website.
+
+
+## [My First Map](https://tcp1997.github.io/)
+
+- Used a CSV file containing the name, description, latitude, longitude, and picture URL to create a map of several of my favorite places
+- Used Github to create a website page for the map
+- Practiced basic HTML writing to create website
+
+## [Developing a Project Website](https://github.com/tcp1997)
+
+- For this assignment I built a static users site with Github Pages
+- I have included my Github repository for access to all the code
+- I want to showcase my ability to be an independent learner and problem solver by developing this website on my own

@@ -1,0 +1,22 @@
+name: "Tyler's Online Portfolio"
+output_dir: "."
+navbar:
+  title: "TCP1997"
+  left:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
+  - text: "GIS Work"
+    icon: fa-globe
+    href: geog13.html
+  right:
+  - icon: fa-github
+    href: https://github.com/tcp1997
+output:
+  html_document:
+    theme: darkly
+
+
+
+
+
