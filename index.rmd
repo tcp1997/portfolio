@@ -8,7 +8,7 @@ title: "About Me"
 </center>
 
 
-I am a senior at the University of California, Santa Barbara, studying Geographic Information Science. I want to demonstrate my knowledge of GIS through data acquisition, manipulation, analysis, and programming by showcasing some of the work I've done as an undergraduate. I am aspiring to earn a career in GIS or data analysis.
+I am a senior at the University of California, Santa Barbara, that is studying Geographic Information Science. I want to demonstrate my knowledge of GIS through data acquisition, manipulation, analysis, and programming by showcasing some of the work I've done as an undergraduate. I am aspiring to earn a career in GIS or data analysis.
 
 
 
