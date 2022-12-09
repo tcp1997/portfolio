@@ -10,6 +10,7 @@ navbar:
     icon: fa-globe
     href: geog13.html
   - text: "Resume"
+    icon: fa-briefcase
     href: TylerPadua_resume.docx.pdf
   right:
   - icon: fa-github
