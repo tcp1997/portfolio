@@ -9,6 +9,8 @@ navbar:
   - text: "GIS Work"
     icon: fa-globe
     href: geog13.html
+  - text: "Resume"
+    href: TylerPadua_resume.docx.pdf
   right:
   - icon: fa-github
     href: https://github.com/tcp1997
