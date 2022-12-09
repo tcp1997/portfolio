@@ -17,3 +17,9 @@ As a Geographic Information Systems major, I had to learn how to use a variety o
 - For this assignment I built a static users site with Github Pages
 - I have included my Github repository for access to all the code
 - I want to showcase my ability to be an independent learner and problem solver by developing this website on my own
+
+## [Transportation Planning & Modelling Synthesis Report](FinalLab.pdf)
+
+- Cumulative report of fundamental Rstudio concepts learned throughout the course
+- Took large datasets, cleaned them, summarize information, and aggregate information
+- Visualized dataset using maps, bar graphs, and histograms
