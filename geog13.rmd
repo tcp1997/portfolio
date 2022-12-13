@@ -23,3 +23,9 @@ As a Geographic Information Systems major, I had to learn how to use a variety o
 - Cumulative report of fundamental Rstudio concepts learned throughout the course
 - Took large datasets, cleaned them, summarize information, and aggregate information
 - Visualized dataset using maps, bar graphs, and histograms
+
+## [Developing a Task Manager Using Python](FinalLab.pdf)
+
+- Here is the interactive main menu portion of a three part project consisting of multiple validation functions and task functions
+- Developed using Python programming fundamentals like string concatenation, tuples, lists, dictionaries, for loops, and while loops
+- Example of helper functions include is_numeric, a function that returns TRUE if the string 'val' contains a valid integer or a float. Otherwise, returns FALSE
