@@ -24,7 +24,7 @@ As a Geographic Information Systems major, I had to learn how to use a variety o
 - Took large datasets, cleaned them, summarize information, and aggregate information
 - Visualized dataset using maps, bar graphs, and histograms
 
-## [Developing a Task Manager Using Python](FinalLab.pdf)
+## [Developing a Task Manager Using Python](cs8_final.pdf)
 
 - Here is the interactive main menu portion of a three part project consisting of multiple validation functions and task functions
 - Developed using Python programming fundamentals like string concatenation, tuples, lists, dictionaries, for loops, and while loops
