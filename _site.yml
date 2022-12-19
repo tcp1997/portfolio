@@ -6,7 +6,7 @@ navbar:
   - text: "Home"
     icon: fa-home
     href: index.html
-  - text: "GIS Work"
+  - text: "Relevant Coursework"
     icon: fa-globe
     href: geog13.html
   - text: "Resume"

@@ -1,12 +1,12 @@
 ---
-title: "Projects"
+title: "Relevant Coursework"
 ---
 
 
 As a Geographic Information Systems major, I had to learn how to use a variety of programs which includes Python, ArcGIS, and RStudio. Here is a collection of my work. Click on the links to view more details.
 
 
-## [My First Map](https://tcp1997.github.io/)
+## [HTML Embedded Mapping](https://tcp1997.github.io/)
 
 - Used a CSV file containing the name, description, latitude, longitude, and picture URL to create a map of several of my favorite places
 - Used Github to create a website page for the map
@@ -29,3 +29,9 @@ As a Geographic Information Systems major, I had to learn how to use a variety o
 - Here is the interactive main menu portion of a three part project consisting of multiple validation functions and task functions
 - Developed using Python programming fundamentals like string concatenation, tuples, lists, dictionaries, for loops, and while loops
 - Example of helper functions include is_numeric, a function that returns TRUE if the string 'val' contains a valid integer or a float. Otherwise, returns FALSE
+
+## [Equity Analysis of LAUSD Schools in Los Angeles County](176A_Final_Paper.pdf)
+
+- For this project, I wanted to know if underrepresented groups in Los Angeles County were allocated enough resources to reach an equitable outcome
+- I needed to identify who is underrepresented, and what they are lacking
+- Using open sourced data, I found the distribution of races who live in poverty, discovered that education correlates highly with poverty through the use of a correlation heat map, and utlized ArcGIS Pro to visualize where schools were located in relation to a neighborhoods poverty level
