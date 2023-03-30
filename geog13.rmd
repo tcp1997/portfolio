@@ -2,7 +2,7 @@
 title: "Relevant Coursework"
 ---
 
-
+<font size = "3">
 As a Geographic Information Systems major, I had to learn how to use a variety of programs which includes Python, ArcGIS, and RStudio. Here is a collection of my work. Click on the links to view more details.
 
 
