@@ -11,10 +11,12 @@ navbar:
     href: geog13.html
   - text: "Resume"
     icon: fa-briefcase
-    href: TylerPadua_resume.docx.pdf
+    href: new_resume.pdf
   right:
   - icon: fa-github
     href: https://github.com/tcp1997
+  - icon: fa-linkedin
+    href: www.linkedin.com/in/tyler-padua
 output:
   html_document:
     theme: darkly

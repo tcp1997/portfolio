@@ -8,7 +8,7 @@ title: "About Me"
 </center>
 
 <center>
-![](img/IMG_2087.png)
+![](img/profile.JPG){height=50%}
 </center>
 
 <font size = "5">
