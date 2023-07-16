@@ -16,7 +16,7 @@ navbar:
   - icon: fa-github
     href: https://github.com/tcp1997
   - icon: fa-linkedin
-    href: www.linkedin.com/in/tyler-padua
+    href: https://www.linkedin.com/in/tyler-padua/
 output:
   html_document:
     theme: darkly
